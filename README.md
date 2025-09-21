@@ -18,6 +18,5 @@ A simple and responsive **Weather App** built using **HTML, CSS, and JavaScript*
 
 ## 🖥️ Demo
 Live App: [Click here](https://sujiiix.github.io/SkyCast/)  
-*(Replace `your-username` with your GitHub username once deployed)*
 
 
